@@ -8,7 +8,7 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
-  </tr>
+  <tr>
   <tr>
     <td>Augusto</td>
     <td>Garanhuns</td>
